@@ -1,6 +1,8 @@
 @charset "utf-8";
 /* CSS Document */
 /* Dropdown Button */
+body {background-color: #070720; color: whitesmoke;}
+h1 {color: whitesmoke;}
 .dropbtn {
   background-color: #4CAF50;
   color: white;
