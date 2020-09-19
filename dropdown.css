@@ -12,7 +12,7 @@ h1 {color: whitesmoke;}
 	/*font-size:20px;*/
 }
 .dropbtn {
-  background-color: #4CAF50;
+  background-color: #3167BC;
   color: white;
   padding: 16px;
   font-size: 16px;
@@ -22,7 +22,7 @@ h1 {color: whitesmoke;}
 
 /* Dropdown button on hover & focus */
 .dropbtn:hover, .dropbtn:focus {
-  background-color: #3e8e41;
+  background-color: #3167BC;
 }
 
 /* The search field */
